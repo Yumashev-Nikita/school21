@@ -1,0 +1,2 @@
+python3 ../materials/linters/cpplint.py --extensions=c *.c *.h io_module/* file_module/* log_module/*
+cppcheck --enable=all --suppress=missingIncludeSystem *.c *.h io_module/* file_module/* log_module/*

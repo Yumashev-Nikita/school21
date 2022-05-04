@@ -1,0 +1,5 @@
+vim
+1)Open file with "vim door_1.conf'
+2)Press I to go INSERT mode
+3)Change "CLOSED" to "OPEN'
+4)Press ESC to leave insert mode and write :wq! to save file and leave
